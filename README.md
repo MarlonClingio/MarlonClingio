@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-👩‍💻 Trabalho atualmente como Designer Gráfico e Arte finalista, possuindo mais de 10 anos de experiência. Estou Graduando em Análise e Desenvolvimento de sistemas.
+💻 Trabalho atualmente como Designer Gráfico e Arte finalista, possuindo mais de 10 anos de experiência. Estou Graduando em Análise e Desenvolvimento de sistemas.
 
 🧠 Possuo habilidades com Web Design e Desenvolvimento Web Front-end.
 
