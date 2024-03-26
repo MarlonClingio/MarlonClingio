@@ -8,8 +8,8 @@
 
 📫 Entre contato comigo:
 **LinkedIn:** www.linkedin.com/in/marlon-clingio-339402250
-**GitHub:** https://github.com/MarlonClingio    
-**E-mail:** marlonclingio83@gmail.com   
+**GitHub:** https://github.com/MarlonClingio
+**E-mail:** marlonclingio83@gmail.com
 **Contato:** _(85) 99625-9387_
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonclingio&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonclingio&hide_progress=true)](https://github.com/marlonclingio/github-readme-stats)
