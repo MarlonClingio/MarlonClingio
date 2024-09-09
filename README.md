@@ -7,7 +7,7 @@
 🧠 Possuo habilidades com Desenvolvimento Web Front-end e Web Design.
 
 📫 Entre contato comigo:
-**LinkedIn:** www.linkedin.com/in/marlon-clingio-339402250 / 
+**LinkedIn:** https://www.linkedin.com/in/marlon-clingio-339402250 / 
 **GitHub:** https://github.com/MarlonClingio / 
 **E-mail:** marlonclingio83@gmail.com / 
 **Contato:** _(85) 99625-9387_
