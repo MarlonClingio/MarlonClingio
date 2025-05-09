@@ -2,9 +2,13 @@
 
 ## 🚀 Sobre mim
 
-💻 Trabalhei como Designer Gráfico e Arte finalista, possuindo mais de 10 anos de experiência. Estou Graduando em Análise e Desenvolvimento de sistemas.
+🌐 Hello, World 🌐
 
-🧠 Possuo habilidades com Desenvolvimento Web Front-end e Web Design.
+💻 Sou apaixonado por tecnologia, desenvolvimento web e design. Com mais de 10 anos de experiência como Designer Gráfico, realizei a transição para a área de Desenvolvimento de Sistemas.
+
+👨🏻‍💻 Graduado em Análise e Desenvolvimento de Sistemas, tenho trabalhado no desenvolvimento, manutenção e suporte de plataformas digitais, utilizando as melhores práticas de programação e interfaces intuitivas.
+
+🧠 Hoje atuo como Desenvolvedor Front-end, com foco em soluções para E-Commerce e sistemas corporativos.
 
 📫 Entre contato comigo:
 **LinkedIn:** https://www.linkedin.com/in/marlon-clingio-339402250 / 
