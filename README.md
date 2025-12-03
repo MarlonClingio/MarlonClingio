@@ -16,7 +16,7 @@
 **E-mail:** marlonclingio83@gmail.com / 
 **Contato:** _(85) 99625-9387_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonclingio&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonclingio&hide_progress=true)](https://github.com/marlonclingio/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marlonclingio&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marlonclingio&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marlonclingio&theme=nord_bright)
 
 ## 🛠 Habilidades
 
