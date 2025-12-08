@@ -2,21 +2,32 @@
 
 ## 🚀 Sobre mim
 
-🌐 Hello, World 🌐
+🌐 Hello, World! 
 
-💻 Sou apaixonado por tecnologia, desenvolvimento web e design. Com mais de 10 anos de experiência como Designer Gráfico, realizei a transição para a área de Desenvolvimento de Sistemas.
+💻 Sou Desenvolvedor Front-end especializado em E-commerce, com foco em criar interfaces modernas, performáticas e escaláveis para grandes marcas. Após mais de uma década atuando como Designer, realizei a transição para o Desenvolvimento de Sistemas — combinando criatividade, pensamento analítico e habilidades técnicas para entregar soluções de alto impacto.
 
-👨🏻‍💻 Graduado em Análise e Desenvolvimento de Sistemas, tenho trabalhado no desenvolvimento, manutenção e suporte de plataformas digitais, utilizando as melhores práticas de programação e interfaces intuitivas.
+👨🏻‍💻 Trabalho no desenvolvimento, evolução e manutenção de plataformas digitais, especialmente lojas VTEX e Deco.cx, transformando layouts em experiências funcionais, responsivas e alinhadas às necessidades do negócio. Participando também de integrações, testes, diagnósticos de problemas e implementação de melhorias contínuas em ambientes complexos de E-commerce.
 
-🧠 Hoje atuo como Desenvolvedor Front-end, com foco em soluções para E-Commerce e sistemas corporativos.
+✅️ Tecnologias e Frameworks:<br />
+• **Front-end:** JavaScript, TypeScript, HTML, CSS, React, Next.js<br />
+• **E-commerce:** VTEX ( IO, Faststore, CMS), Deco.cx<br />
+• **Back-end:** Node.js, Express<br />
+• **Banco de dados:** MySQL, PostgresSQL, MondoDB<br />
+• **Design:** Figma, Photoshop<br />
+• **Outros:** Performance, Responsividade, SEO Técnico, Layout, Tagueamentos, UX/UI<br />
 
-📫 Entre contato comigo:
-**LinkedIn:** https://www.linkedin.com/in/marlon-clingio-339402250 / 
-**GitHub:** https://github.com/MarlonClingio / 
-**E-mail:** marlonclingio83@gmail.com / 
-**Contato:** _(85) 99625-9387_
+🏆 Especialidades e Diferenciais:<br />
+• Experiência prática em projetos de grande volume (Fastshop, Fila, Umbro, NewBalance, 3Corações, Mercafé).<br />
+• Background sólido em Design, unindo estética, UX e código.<br />
+• Perfil colaborativo, analítico e orientado a resolver problemas.<br />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marlonclingio&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marlonclingio&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marlonclingio&theme=nord_bright)
+📫 Entre contato comigo:<br />
+**LinkedIn:** https://www.linkedin.com/in/marlon-clingio-339402250<br />
+**GitHub:** https://github.com/MarlonClingio<br />
+**E-mail:** marlonclingio83@gmail.com<br />
+**Contato:** _(85) 99625-9387_<br />
+<br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marlonclingio&theme=nord_bright)
 
 ## 🛠 Habilidades
 
