@@ -11,13 +11,13 @@
 ✅️ Tecnologias e Frameworks:<br />
 • **Front-end:** JavaScript, TypeScript, HTML, CSS, React, Next.js<br />
 • **E-commerce:** VTEX ( IO, Faststore, CMS), Deco.cx<br />
-• **Back-end:** Node.js, Express<br />
+• **Back-end:** Node.js, Express.js, Nest.js<br />
 • **Banco de dados:** MySQL, PostgresSQL, MondoDB<br />
-• **Design:** Figma, Photoshop<br />
+• **Design:** Figma, Photoshop,Illustrator <br />
 • **Outros:** Performance, Responsividade, SEO Técnico, Layout, Tagueamentos, UX/UI<br />
 
 🏆 Especialidades e Diferenciais:<br />
-• Experiência prática em projetos de grande volume (Fastshop, Fila, Umbro, NewBalance, 3Corações, Mercafé).<br />
+• Experiência prática em projetos de grande volume (Eletrolux, Fastshop, Mondial, Fila, Umbro, NewBalance, Mercafé).<br />
 • Background sólido em Design, unindo estética, UX e código.<br />
 • Perfil colaborativo, analítico e orientado a resolver problemas.<br />
 
