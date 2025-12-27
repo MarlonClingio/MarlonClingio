@@ -12,7 +12,7 @@
 • **Front-end:** JavaScript, TypeScript, HTML, CSS, React, Next.js<br />
 • **E-commerce:** VTEX ( IO, Faststore, CMS), Deco.cx<br />
 • **Back-end:** Node.js, Express.js, Nest.js<br />
-• **Banco de dados:** MySQL, PostgresSQL, MondoDB<br />
+• **Banco de dados:** MySQL, PostgreSQL, MongoDB<br />
 • **Design:** Figma, Photoshop, Illustrator<br />
 • **Outros:** Performance, SEO Técnico, Layout, Tagueamentos, UX/UI<br />
 
